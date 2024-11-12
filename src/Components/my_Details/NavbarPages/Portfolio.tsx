@@ -14,14 +14,9 @@ function Portfolio() {
       platforms: ["React", "React Native", "Node", "TypeScript", "JavaScript", "Tailwind CSS"],
       reach: [
         {
-          name: "GitHub",
-          icon: <FaGithub />,
-          link: "https://github.com/username/project-one",
-        },
-        {
           name: "Live Demo",
           icon: <FaExternalLinkAlt />,
-          link: "https://project-one.com",
+          link: "https://www.beemg.com/",
         },
       ],
     },
@@ -33,14 +28,9 @@ function Portfolio() {
       platforms: ["Next.js", "Nest.js", "TypeScript", "JavaScript", "Ant Design"],
       reach: [
         {
-          name: "GitHub",
-          icon: <FaGithub />,
-          link: "https://github.com/username/project-two",
-        },
-        {
           name: "Live Demo",
           icon: <FaExternalLinkAlt />,
-          link: "https://project-two.com",
+          link: "https://www.beemg.com/",
         },
       ],
     },
@@ -53,12 +43,12 @@ function Portfolio() {
         {
           name: "GitHub",
           icon: <FaGithub />,
-          link: "https://github.com/username/project-three",
+          link: "https://github.com/KannanAC18/kannan_spacex",
         },
         {
           name: "Live Demo",
           icon: <FaExternalLinkAlt />,
-          link: "https://project-three.com",
+          link: "https://spacex-kannan.vercel.app/",
         },
       ],
     },
@@ -71,12 +61,12 @@ function Portfolio() {
         {
           name: "GitHub",
           icon: <FaGithub />,
-          link: "https://github.com/username/portfolio-website",
+          link: "https://github.com/KannanAC18/portfolio_kannan",
         },
         {
           name: "Live Demo",
           icon: <FaExternalLinkAlt />,
-          link: "https://yourportfolio.com",
+          link: "https://portfolio-kannan.vercel.app/",
         },
       ],
     },
