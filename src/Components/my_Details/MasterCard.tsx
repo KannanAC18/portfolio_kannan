@@ -35,7 +35,7 @@ function MasterCard() {
     <div className="relative flex flex-col w-full h-full p-5 overflow-auto bg-white border border-gray-500 rounded-lg dark:bg-gray-900 dark:border-gray-700">
       <div className="absolute top-0 right-0"> 
 
-      {windowWidth > 1000 ?  <NavBar  setNavBarSelection={setNavBarSelection} navBarItems={navItems} /> : <NavBarVr setNavBarSelection={setNavBarSelection} navBarItems={navItems} />}
+      {windowWidth > 1000 ?  <NavBar  setNavBarSelection={setNavBarSelection} navBarSelection={navBarSelection} navBarItems={navItems} /> : <NavBarVr setNavBarSelection={setNavBarSelection} navBarItems={navItems} />}
       </div>
 
       {navBarSelection === "ABOUTME" &&<div className="overflow-y-scroll no-scrollbar"> <AboutMe/> </div>}

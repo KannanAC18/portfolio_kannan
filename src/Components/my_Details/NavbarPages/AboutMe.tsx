@@ -77,7 +77,7 @@ function AboutMe() {
       <div className="flex flex-col p-8 space-y-4 text-black dark:text-white">
         <span>
           Hello! I’m Kannan AC, a software developer with an MSc in Software
-          Systems and 2 years of experience specializing in React, React Native,
+          Systems specializing in React, React Native, Next JS, Nest JS
           JavaScript, TypeScript, and Tailwind CSS.
         </span>
 
